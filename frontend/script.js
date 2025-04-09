@@ -10,7 +10,7 @@ document.getElementById('checkInForm').addEventListener('submit', async function
     };
   
     // Update the URL with your deployed Azure Function endpoint
-    const functionEndpoint = "functionapp322.azurewebsites.net/api/CheckInFunction";
+    const functionEndpoint = "functionapp323.azurewebsites.net/api/CheckInFunction";
   
     try {
       const response = await fetch(functionEndpoint, {
