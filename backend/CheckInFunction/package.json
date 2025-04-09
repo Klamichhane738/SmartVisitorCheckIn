@@ -1,0 +1,16 @@
+{
+    "name": "CheckInFunction",
+    "version": "1.0.0",
+    "description": "Visitor Check-In function",
+    "main": "index.js",
+    "dependencies": {
+      "axios": "^0.27.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "start": "func start"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
